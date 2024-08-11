@@ -91,11 +91,13 @@ Please follow our Step-By-Step Guide to do so:
 
 ## Installation (IMPORTANT)
 
-Please note that **this is not a regular HA add-on** that can be installed by just searching for it inside the add-on
-store.
-For this HA-Integration to work, **you need to install HACS (Home Assistant Community Store)** first.<br>
+The following steps are only necessary, if you are not running a current release of Home Assistant since this integration
+is an official integration since May 2024.
 
-**Please follow our 4-Step guide to successfully get this Integration running:**
+**You will only need to install HACS (Home Assistant Community Store) if you are running an old Home Assistant release
+and there are reasons why you can not update.** Otherwise you can skip to the next paragraph.
+
+**Please follow our 4-Step guide if you want to install this Integration via HACS:**
 
 1. After you set up your Home Assistant instance, please follow this 3-minute video on how to install
    HACS: [How to install HACS within only 3 minutes [YouTube]](https://youtu.be/Q8Gj0LiklRE?si=_YqpNZ2yOE5sRUjd&t=44)<br>
